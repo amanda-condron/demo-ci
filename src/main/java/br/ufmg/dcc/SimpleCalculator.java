@@ -4,6 +4,7 @@ public class SimpleCalculator {
 
   public int addition(int x, int y) {
     return x + y;
+    return x + 1 + y;
   }
 
   public int subtraction(int x, int y) {
